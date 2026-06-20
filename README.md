@@ -34,7 +34,7 @@ Since these are high-value discrete items, they **cannot be divided or cut** (he
 * **Pros/Cons:** Extremely fast for large datasets because it aggressively cuts down unnecessary calculations. However, it requires more RAM to store active queue nodes.
 
 
-## 🏆 Optimal Solution
+## Optimal Solution
 
 Both algorithms independently arrive at the exact same optimal solution:
 * **Items Selected:** Item 1, Item 2, and Item 4.
@@ -42,7 +42,7 @@ Both algorithms independently arrive at the exact same optimal solution:
 * **Maximum Profit:** $\text{Rp } 10\text{M} + \text{Rp } 10\text{M} + \text{Rp } 18\text{M} = \mathbf{\text{Rp } 38\text{ Million}}$.
 
 
-## 🚀 How to Run the Code
+## How to Run the Code
 
 ### Prerequisites
 Make sure you have a C++ compiler installed (e.g., `g++` via GCC, Clang, or MSVC).
