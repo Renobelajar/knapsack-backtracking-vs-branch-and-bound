@@ -2,7 +2,7 @@
 
 This repository contains a C++ comparative implementation to solve the classic **0/1 Knapsack Problem**. The project demonstrates how the exact same optimization problem can be tackled using two distinct algorithmic paradigms: **Backtracking** and **Branch & Bound**.
 
-## 📝 Problem Statement (Case Study)
+## Problem Statement (Case Study)
 
 A thief breaks into a luxury jewelry store. He finds **4 valuable items**, each with a specific weight and profit value. However, the thief only brought **one backpack** with a maximum weight capacity of **15 kg**. 
 
@@ -21,7 +21,7 @@ Since these are high-value discrete items, they **cannot be divided or cut** (he
 
 ---
 
-## 💡 Algorithmic Approaches
+## Algorithmic Approaches
 
 ### 1. Backtracking (Depth-First Search)
 * **Strategy:** It systematically explores the state space tree by going deep down a single path. 
